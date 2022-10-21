@@ -15,7 +15,7 @@ public class TestPastByValue {
         test(i);
         System.out.println(i);
     }
-    Z
+    
     public static void test(int j){
         j = 33;
     }
